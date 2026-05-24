@@ -1,6 +1,6 @@
 # StudyRats
 
-Sistema de gamificação para estudos desenvolvido em Java utilizando Programação Orientada a Objetos.
+Sistema de gamificação para estudos desenvolvido em Java utilizando Programação Orientada a Objetos. Lucas
 
 ## Objetivo
 
@@ -41,3 +41,4 @@ src/
 ├── interfaces/
 ├── exception/
 └── util/
+
